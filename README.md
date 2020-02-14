@@ -17,6 +17,7 @@ Bugs:
 1. RTL-UP still not perfectly working after you refresh browser.
 
 resources:
+
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof
 
 https://blog.cloudboost.io/for-loops-in-react-render-no-you-didnt-6c9f4aa73778
