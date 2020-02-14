@@ -1,70 +1,38 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React table
 
-## Available Scripts
+What's it?
+This project is solving problem and here how it works.
 
-In the project directory, you can run:
+Input 
+N = start number
+X = increasing number from N
+M = Max number from N + X
+W = screen width
+D = is start point of N has two option. LTR-UP = Left to right then Up and RTL-UP = Right to left then up
 
-### `yarn start`
+Feature
+1. If the window is resize smaller than a certain width, the blue table will disappear.
+2. If the window is width is reduced furture, than a certain width, the green table must wrap under red table.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Bugs:
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `yarn test`
+resources:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof
+https://blog.cloudboost.io/for-loops-in-react-render-no-you-didnt-6c9f4aa73778
+https://www.robinwieruch.de/react-function-component
+https://serverless-stack.com/chapters/create-a-login-page.html
+https://reactjs.org/docs/conditional-rendering.html
+https://www.w3schools.com/html/tryit.asp?filename=tryhtml_responsive_media_query
+https://flaviocopes.com/react-how-to-loop/
+https://blog.cloudboost.io/for-loops-in-react-render-no-you-didnt-6c9f4aa73778
+https://stackoverflow.com/questions/35248748/calling-setstate-in-a-loop-only-updates-state-1-time
+https://stackoverflow.com/questions/40535444/how-to-use-onclick-with-divs-in-react-js
+https://www.robinwieruch.de/local-storage-react
+https://reactjs.org/docs/hooks-effect.html
+https://www.w3schools.com/jsref/jsref_unshift.asp
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/concat
+https://stackoverflow.com/questions/28868071/onchange-event-using-react-js-for-drop-down
+https://github.com/AnomalyInnovations/serverless-stack-demo-client
+https://www.chrisblakely.dev/how-to-show-hide-elements-in-react-using-hooks
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# react-table
-# react-table
