@@ -4,9 +4,13 @@ online demo -> http://react-table-us-west-2.s3-website-us-west-2.amazonaws.com/
 
 Input 
 N = start number
+
 X = increasing number from N
+
 M = Max number from N + X
+
 W = screen width
+
 D = is start point of N has two option. LTR-UP = Left to right then Up and RTL-UP = Right to left then up
 
 Feature
