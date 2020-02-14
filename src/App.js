@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import ReactDOM from 'react-dom';
-import { createTable } from '../src/helper';
+import { createTable } from '../src/util/helper';
 import './App.css';
 
 function App() {
