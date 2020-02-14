@@ -1,7 +1,6 @@
 ## React table
 
-What's it?
-This project is solving problem and here how it works.
+online demo -> http://react-table-us-west-2.s3-website-us-west-2.amazonaws.com/
 
 Input 
 N = start number
@@ -15,7 +14,7 @@ Feature
 2. If the window is width is reduced furture, than a certain width, the green table must wrap under red table.
 
 Bugs:
-
+1. RTL-UP still not perfectly working after you refresh browser.
 
 resources:
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof
