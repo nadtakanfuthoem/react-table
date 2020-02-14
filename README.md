@@ -3,6 +3,7 @@
 online demo -> http://react-table-us-west-2.s3-website-us-west-2.amazonaws.com/
 
 Input 
+
 N = start number
 
 X = increasing number from N
