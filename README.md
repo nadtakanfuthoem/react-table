@@ -13,7 +13,7 @@ Feature
 1. If the window is resize smaller than a certain width, the blue table will disappear.
 2. If the window is width is reduced furture, than a certain width, the green table must wrap under red table.
 
-Bugs:
+Bug:
 1. RTL-UP still not perfectly working after you refresh browser.
 
 resources:
