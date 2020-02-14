@@ -7,17 +7,12 @@ export function createTable(n, x, m, d){
 		let newArrVal = [];
 
 		if(parseInt(n) > 0 && parseInt(x) > 0 && parseInt(m) > 0) {
-
-			console.log(d);
 			
 			if(d === '0' ){
 				d = 'LTR-UP';
 			} else {
 				d = 'RTL-UP';
 			}
-			
-			console.log(typeof d);
-			console.log(`d => ${d}`);
 			
 			for(let j = parseInt(n) ; j <= parseInt(m) ; ) {
 				newArr.push(j);
@@ -71,7 +66,6 @@ export function createTable(n, x, m, d){
 	
 			// reverse array
 			newArrVal.reverse();
-			console.log(newArrVal);
 	
 			// adding 0 to array if length < 5
 			for (let i = 0; i < newArrVal.length; i++) {
