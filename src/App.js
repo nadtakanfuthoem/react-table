@@ -4,6 +4,8 @@ import { createTable } from '../src/util/helper';
 import './App.css';
 
 function App() {
+
+	// init golbal variables
 	const [rn, setRn] = useState(
 		localStorage.getItem('rn') || 0
 	);
@@ -52,6 +54,7 @@ function App() {
 	const [bd, setBd] = useState(
 		localStorage.getItem('bd') || 'LTR-UP'); // set default LTR-UP
 	
+	// reload variable when changes has been made.
 	useEffect(() => {
 		async function onload() {
 			// red
